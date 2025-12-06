@@ -154,9 +154,6 @@ Training is performed using the [`train.py`](./train.py) script.
 - **Learning Rate:** 5e-5  
 - **Scheduler:** Linear (no warmup)
 
-![Screenshot 2025-05-29 183525](https://github.com/user-attachments/assets/bb2d4415-ac21-4259-a9a5-c6ef809f3dff)
-
-
 
 
 ### Preprocessing
