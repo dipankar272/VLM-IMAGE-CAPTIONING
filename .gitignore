@@ -1,0 +1,6 @@
+output_folder/
+*.png
+*.jpg
+*.jpeg
+*.pt
+runs/
